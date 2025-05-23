@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react2025/static/css/main.d5ebf45f.css",
+    "main.js": "/react2025/static/js/main.7770e4f5.js",
+    "static/media/item2.jpg": "/react2025/static/media/item2.b4b56e3ac51b360603e6.jpg",
+    "static/media/item1.jpg": "/react2025/static/media/item1.748d1200abd749c40acf.jpg",
+    "index.html": "/react2025/index.html",
+    "main.d5ebf45f.css.map": "/react2025/static/css/main.d5ebf45f.css.map",
+    "main.7770e4f5.js.map": "/react2025/static/js/main.7770e4f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5ebf45f.css",
+    "static/js/main.7770e4f5.js"
+  ]
+}
